@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    background-color: antiquewhite;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+#quoteContent {
+  text-align: center;
+  background-color: aliceblue;
+  border: 1px solid black;
+  padding: 30px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+  border-color: aliceblue;
+  width: 50%;
+  height: 20%;
+}
+
+h1 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
